@@ -217,7 +217,7 @@ et affiche les noms/prénoms reçus depuis le service SOAP.
 - **Nom :** *Ayman Dhissi*  
 - **Encadrant :** *A. Ettaoufik*  
 - **Module :** Services Web (SOAP)  
-- **Établissement :** ENSA / Université  
+- **Établissement :** EMSI  
 - **Outils :** IntelliJ IDEA, JDK 17, Maven, SOAP UI  
 - **Technologies :** JAX-WS RI 4.0.2, JAXB  
 
